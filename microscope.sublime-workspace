@@ -1,0 +1,825 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ucze",
+				"ucze-sie"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"space",
+				"space-x6"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"nav",
+				"nav-kursy-ul"
+			],
+			[
+				"konw",
+				"Konwersatoria"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"ent",
+				"entry-wide"
+			],
+			[
+				"add_",
+				"add_shortcode"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fire",
+				"firefox"
+			],
+			[
+				"transition",
+				"TransitionTimingFunction"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"backgo",
+				"background"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"firt",
+				"first-child"
+			],
+			[
+				"ba",
+				"baseline"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"bott",
+				"text-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"DO",
+				"DOCUMENT_ROOT"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"bo",
+				"text-bottom"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"1em",
+				"1em"
+			],
+			[
+				"aside",
+				"aside-main"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sec",
+				"section-front-3"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"sect",
+				"section-front-4"
+			],
+			[
+				"moz",
+				"moz-linear-gradient"
+			],
+			[
+				"aside-",
+				"aside-h"
+			],
+			[
+				"front",
+				"front-alt-3"
+			],
+			[
+				"levels",
+				"levels-h-alt"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"section-front-",
+				"section-front-2-alt"
+			],
+			[
+				"rozwijam",
+				"rozwijam"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"ul",
+				"ul	Unordered List"
+			],
+			[
+				"a",
+				"a	Anchor Link"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"php",
+				"php	php-<?"
+			],
+			[
+				"p-nav",
+				"p-nav"
+			],
+			[
+				"prev",
+				"prev"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"c-",
+				"c-big"
+			],
+			[
+				"right",
+				"right"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"15px",
+				"15px"
+			],
+			[
+				"left",
+				"left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"Space",
+				"Package Control: List Packages"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: basic html"
+			],
+			[
+				"pck",
+				"Package Control: Remove Package"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 256.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/warsztaty-pisania-v2.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/sass/partials/base.scss",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/opinie.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/j/j.js",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/index-classic.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/index.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/front-v3.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/about.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/api/list.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/newsletter-functions.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/footer.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/warsztaty-pisania.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/header.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/warsztaty-pisania-form.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/sidebar-bottom.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/404.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/footer-mini.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/styleguide.html",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/api/warsztaty-oslo.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/api/warsztaty-pisania.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/letter.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/archive.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/newsletter.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/index-v2.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/front.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/front-v2.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/kursyoslo-2.php",
+		"/Users/marcinretecki/Sites/nocnasowa/Design/Newsletter/NocnaSowa-Warsztaty-Pisania-v2-no-task.html",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/warsztaty-pisania-zapisy.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/warsztaty-pisania-open.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/.htaccess",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/j/j-countdown.js",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/kursyoslo-functions-2.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/kursyoslo-opinie.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/kursyoslo-functions.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/kursyoslo.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/warsztaty-pisania-platnosc.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/warsztaty-pisania-przelew.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/single.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/header-meta.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/bubble-functions.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/single-onecolumn.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/sidebar.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/sidebar-pisanie.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/opinie-single.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/footer-fb.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/comments.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/wp-content/themes/nocnasowa_theme/warsztaty-pisania.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/api/mailchimp-batch-actions.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/api/mailchimp.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/functions.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/wp-content/themes/nocnasowa_theme/kursyoslo-2.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/wp-content/themes/nocnasowa_theme/kursyoslo.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/api/warsztaty.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/s.css",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/config.rb",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/j-ck.js",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/j.js",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/header-abs.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/wp-content/themes/nocnasowa_theme/header-abs.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/fabryka/wp-content/themes/fabryka_nocnasowa/index.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/fabryka/wp-content/themes/fabryka_nocnasowa/style.css",
+		"/Users/marcinretecki/Sites/nocnasowa/live/c/fabryka.css",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/sass/fabryka.scss",
+		"/Users/marcinretecki/Sites/nocnasowa/live/c/api/mailchimp-api.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/ie6.css",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/sidebar-poll.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/wp-content/themes/nocnasowa_theme/kursyoslo-functions.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/wp-content/themes/nocnasowa_theme/kursyoslo-functions-2.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/thanks.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/api/mailchimp-api.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/wp-admin/.htaccess",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/i/takk.svg",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-admin/.htaccess",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/cache/page_enhanced/.htaccess",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/.htaccess",
+		"/Users/marcinretecki/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/marcinretecki/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/page.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/styleguide.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/styleguide.html",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/rekomendacje-single.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/rekomendacje.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/single-produkt.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/wp-content/themes/nocnasowa_theme/front.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/sass/screen.scss",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/sass/ie.scss",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/ie.css",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/s.scss",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/asset-sowo-zdradz-slowa.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/asset-4-slowa.php",
+		"/Users/marcinretecki/Sites/nocnasowa/live/wp-content/themes/nocnasowa_theme/sidebar.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/asset-4slowa.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/wp-content/themes/nocnasowa_theme/single-maschine.php",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/kursyoslo.html",
+		"/Users/marcinretecki/Sites/nocnasowa/livecopy/c/zepto-core-min.js",
+		"/Users/marcinretecki/Sites/nocnasowa/various dev files/Banery/baner.txt",
+		"/Users/marcinretecki/Sites/nocnasowa/live/wp-content/themes/nocnasowa_theme/about.php",
+		"/Users/marcinretecki/Sites/prefixfree.js",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/thanks.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/.htaccess",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/taxonomy-material.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/archive-produkt.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/archiveloop.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/produkt-archive.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/products.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/product.php",
+		"/Users/marcinretecki/Sites/MR WP Template/functions.php",
+		"/Volumes/Macintosh HD/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/product.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/taxonomy-kolekcja.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/taxonomy.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/footer.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/header-nav.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/header-meta.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/header.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/twentytwelve/index.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-content/themes/drewutnia/assets/autover.php",
+		"/Users/marcinretecki/Sites/Drewutnia Emila/www/wp-config.php",
+		"/Volumes/MR_DATA1/Web Design/Praca/2011/innowacyjny/hasła.txt",
+		"/Users/marcinretecki/Desktop/fp-export-1367679091/font.css",
+		"/Users/marcinretecki/Desktop/zynga-scroller-dce9087/demo/easyscroller.html",
+		"/Users/marcinretecki/Desktop/zynga-scroller-dce9087/src/Animate.js",
+		"/Users/marcinretecki/Desktop/zynga-scroller-dce9087/src/Scroller.js",
+		"/Users/marcinretecki/Desktop/zynga-scroller-dce9087/src/EasyScroller.js",
+		"/Users/marcinretecki/Desktop/zynga-scroller-dce9087/demo/dom-list.html",
+		"/Users/marcinretecki/Sites/nocnasowa/app_wireframe/sys.php",
+		"/Users/marcinretecki/Sites/nocnasowa/app_wireframe/touch.js",
+		"/Users/marcinretecki/Sites/nocnasowa/app_wireframe/.htaccess"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"section-top",
+			".intro",
+			".block{",
+			"display:block",
+			"wp-hero-top",
+			"size-3",
+			"size-2",
+			"1.667",
+			"section-entry",
+			"no-margin",
+			"margin:0",
+			"h1{",
+			"size-5",
+			"section-8",
+			"index-h",
+			"is_czytane",
+			"active_czytales",
+			"is_wybrane",
+			":visited",
+			"form{",
+			"width:100%",
+			"btn",
+			"wp-input",
+			"sandra",
+			"Ania",
+			"emilia",
+			"$gray",
+			".con{",
+			"#ccc",
+			"$gray",
+			".p-10",
+			"section-content",
+			"post-small",
+			"arty",
+			"section-content",
+			"btn-footer",
+			"intro",
+			"quote",
+			"section-entry",
+			"entry-title",
+			"footer",
+			"figcaption",
+			"figure",
+			"icon",
+			"');\n",
+			"isScrolledIntoView",
+			".entry",
+			"iframe",
+			"aside-newsletter",
+			"aside-main",
+			".note",
+			"aside-main-alt",
+			"single-onecolumn",
+			"!isset( $_COOKIE['nocnasowa_from_newsletter']",
+			"btn{",
+			"footer-entry",
+			"newbig",
+			"itemprop",
+			"<aside",
+			"content\"",
+			"single",
+			"class=\"content",
+			"content",
+			"section-h",
+			"h2,",
+			"h2",
+			"section-entry",
+			"entry",
+			"h2",
+			"entry",
+			"section-top",
+			"section-",
+			"section-entry",
+			"section-top",
+			"heromatic",
+			"section-top",
+			"footer-entry",
+			"figure",
+			"$category_color",
+			".section-blue a, .section-green a, .section-orange a, .section-red a",
+			"index-h",
+			".entry",
+			"levels-h",
+			"label",
+			"section-content",
+			"section-",
+			"section-content",
+			"footer",
+			"section-footer",
+			"hr{",
+			"posts-nav a",
+			"footer-entry",
+			"index-h",
+			"				\n",
+			"section-top",
+			"footer-entry",
+			"section-top",
+			"section-trans",
+			"a{",
+			"a",
+			"h2 a",
+			"$blue",
+			"aside-main-alt",
+			"btn-auto",
+			"btn-box",
+			"btn-bigger",
+			"search",
+			"section-blue",
+			"class=\"levels\"",
+			"levels",
+			"section-entry",
+			"footer-entry",
+			"btn-c",
+			"film",
+			"//\n",
+			"in_category",
+			"header",
+			"nav",
+			"color:#888",
+			"888",
+			"nav",
+			"></",
+			"wp_query",
+			".section-dark",
+			".ex",
+			"transition",
+			".ex",
+			"h2,"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"is_czytales",
+			"$gray",
+			"$gray-on-dark",
+			"section-6-4",
+			"$post_header_color",
+			"class=\"space-x2\"",
+			"color:$gray",
+			"-wp-05",
+			"'http://",
+			"http://",
+			"//nocnasowa.pl/c/",
+			"$opinie",
+			"$opinie_chosen",
+			"opinie",
+			"i>",
+			"",
+			"div>",
+			"#{$m770}",
+			"dropdownShow",
+			"dropdownNav",
+			"",
+			"'",
+			"Czego się nauczę?",
+			"000",
+			"fff",
+			"",
+			"$font-semi-dark",
+			"$dark-btn-hover",
+			"$dark-btn-border",
+			"$dark-light",
+			"$dark-border",
+			"$red-light",
+			"$red-border",
+			"$orange-light",
+			"$orange-hover",
+			"$orange-border",
+			"$green-light",
+			"$green-hover",
+			"$green-border",
+			"$blue-light",
+			"$blue-border",
+			"$beige-hover",
+			"$beige-border",
+			"$space-half",
+			"$dark-btn",
+			"orange-hover",
+			"green-hover",
+			"beige-hover",
+			"beige-light",
+			"beige-border",
+			"blue-border",
+			"blue-light",
+			"green-light",
+			"orange-light",
+			"red-light",
+			"red-hover",
+			"dark-light",
+			"dark-border",
+			"dark-btn-hover",
+			"dark-btn-border",
+			"green-border",
+			"orange-border",
+			"red-border",
+			"$white",
+			"$font-light",
+			"$font-dark",
+			"$red",
+			"$orange",
+			"$green",
+			"$beige",
+			"$dark",
+			"$blue-hover",
+			"$blue",
+			"$space-10",
+			"$space-8",
+			"$space-6",
+			"$space-5",
+			"$space-4",
+			"$space-3",
+			"$space-2",
+			"$size-2",
+			"space-x2",
+			"col-10",
+			"$space-x4",
+			"space-x2",
+			"(-$space-double)",
+			"(-$space)",
+			"(-$space-half)",
+			"-($space-half)",
+			"$space-half",
+			"space-double",
+			"rem",
+			"\"row\"",
+			"col-8",
+			"row",
+			"$space-2",
+			"$space",
+			"opinie",
+			"<article class=\"col\" itemprop=\"review\" itemscope itemtype=\"http://schema.org/Review\">",
+			"<p class=\"recommends-text\" itemprop=\"reviewBody\">",
+			"<h3 itemprop=\"author\">",
+			"recommends-text",
+			"recommends-block",
+			"",
+			"header-abs",
+			"header-rel",
+			"<p class=\"intro\"><q>",
+			"",
+			"recommends-img",
+			"Więcej",
+			"Dowiedz się więcej",
+			"h",
+			"w",
+			"t",
+			"282e33",
+			"10",
+			"section-entry",
+			"",
+			"section-h-thin",
+			".hover",
+			"h4",
+			"p",
+			"nav-prev",
+			":",
+			";",
+			"/i",
+			"<i class=\"vis\"",
+			"{"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true
+}
